@@ -13,9 +13,12 @@
     "@parcel/transformer-pug": "^2.6.2",
     "@parcel/transformer-sass": "^2.6.2",
     "parcel": "^2.6.2",
+    "querystring-es3": "^0.2.1",
     "sharp": "^0.29.3"
   },
   "dependencies": {
-    "math-fit": "^1.0.1"
+    "gsap": "^3.11.2",
+    "math-fit": "^1.0.1",
+    "pixi.js": "^6.5.5"
   }
 }
